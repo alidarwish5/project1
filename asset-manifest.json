@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/alidarwish5/project1.git/static/css/main.e854c5c9.css",
-    "main.js": "/alidarwish5/project1.git/static/js/main.5cb326e3.js",
-    "static/media/screen2.jpg": "/alidarwish5/project1.git/static/media/screen2.afb12c9157e2b33f51dc.jpg",
-    "index.html": "/alidarwish5/project1.git/index.html",
-    "main.e854c5c9.css.map": "/alidarwish5/project1.git/static/css/main.e854c5c9.css.map",
-    "main.5cb326e3.js.map": "/alidarwish5/project1.git/static/js/main.5cb326e3.js.map"
+    "main.css": "/alidarwish5/test1.git/static/css/main.e854c5c9.css",
+    "main.js": "/alidarwish5/test1.git/static/js/main.eee79363.js",
+    "static/media/screen2.jpg": "/alidarwish5/test1.git/static/media/screen2.afb12c9157e2b33f51dc.jpg",
+    "index.html": "/alidarwish5/test1.git/index.html",
+    "main.e854c5c9.css.map": "/alidarwish5/test1.git/static/css/main.e854c5c9.css.map",
+    "main.eee79363.js.map": "/alidarwish5/test1.git/static/js/main.eee79363.js.map"
   },
   "entrypoints": [
     "static/css/main.e854c5c9.css",
-    "static/js/main.5cb326e3.js"
+    "static/js/main.eee79363.js"
   ]
 }
